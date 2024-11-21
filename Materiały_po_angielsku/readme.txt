@@ -5,6 +5,9 @@
 > Darmowe i przystępne materiały do nauki SQL, python:
 https://www.w3schools.com/
 
+> Wiki python:
+https://wiki.python.org/moin/BeginnersGuide
+
 ### Repozytoria Github:
 
 > Fajnie wyjaśniona teoria, puls kilka zadanek po angielsku:
