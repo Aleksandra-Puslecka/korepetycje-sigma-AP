@@ -20,6 +20,8 @@ SKRYPT KSZTAŁTY -> https://mat.ug.edu.pl/~akarpowi/Scratch1.pdf
 
 KOMUNIKACJA W PROGRAMIE SCRATCH -> https://cms-v1-files.superszkolna.pl/sites/1454/cms/szablony/89370/pliki/kartapracydobiegugotowistartkomunikatywprogramiescratch.pdf
 
+TWORZENIE QUIZU O POLSCE W SRATCH -> http://sp3polkowice.edu.pl/strony/rkr/cms/quiz.aspx
+
 
 Pomocne materiały (eng):
 https://scratch-tutorial.readthedocs.io/fr/latest/1_intro/intro.html
